@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: MCQ-Genrator
+Version: 0.0.1
+Author: Bibhishan Karadkar
+Author-email: bibhishan_k@yahoo.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
