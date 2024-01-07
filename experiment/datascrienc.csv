@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the role of a data scientist?,a: To collect and analyze data | b: To develop software applications | c: To design websites | d: To create social media campaigns,To collect and analyze data
+What is the purpose of data ingestion in the data science lifecycle?,a: To store and process data | b: To analyze data patterns | c: To collect data from various sources | d: To present data insights,To collect data from various sources
+Which stage of the data science lifecycle involves cleaning and transforming data?,a: Data ingestion | b: Data storage and data processing | c: Data analysis | d: Communicate,Data storage and data processing
+What is the purpose of data analysis in the data science lifecycle?,a: To generate reports and visualizations | b: To collect data from various sources | c: To develop software applications | d: To store and process data,To generate reports and visualizations
+Which programming languages are commonly used for data science?,a: Java and C++ | b: R and Python | c: HTML and CSS | d: JavaScript and PHP,R and Python
